@@ -1,15 +1,55 @@
-- 👋 Hi, I’m @Timkavipww Im 19 yo
-- 👀 I’m interested in IT sphere long 3 years I'm also interested in math and games constructions
-- 🌱 I’m currently learning C++ and some SQL in future would leart Kotlin to programming on IOS/Linux and learning Enlish to have better skills
-- 💞️ I’m looking to collaborate on Yandex or Google, maybe i'll find some interesting IT organisations
-- 📫 How to reach me tg: noviperr vk: nochancelol discord: restrictedlv spoty: restrictedlv
-- 😄 Pronouns: He/His
-- ⚡ Fun fact: 'll be fun when stay cool and rich
+# Хайретдинов Тимур Дамирович
 
-<!---
-Timkavipww/Timkavipww is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
-You can click the Preview link to take a look at your changes.
---->
+👋 Привет! Меня зовут Тимур, я **.NET разработчик** с опытом работы в **ASP.NET Core** и созданием архитектуры backend-частей приложений. 
+
+## 💼 О себе
+- **Возраст**: 19 лет  
+- **Расположение**: Санкт-Петербург, м. Нарвская  
+- **Связаться со мной**:  
+  - 📞 Телефон: +7 (993) 486-09-30  
+  - 📧 Email: zxsqwr520@gmail.com  
+
+### 🚀 Навыки
+- **Backend**: C#, ASP.NET Core, REST API, .NET
+- **Frontend**: HTML5, JavaScript
+- **Базы данных**: MS SQL Server, PostgreSQL, SQL
+- **Инструменты**: Microsoft Visual Studio, Git, Docker, CI/CD, JSON, XML
+- **Операционные системы**: Linux, Windows
+
+### 🎓 Образование
+- **Балтийский государственный технический университет "ВОЕНМЕХ"**  
+  Специальность: Технологические машины и оборудование  
+  Год окончания: 2027 (2 курс)
+
+### 🛠 Опыт работы
+- **Май 2023 — Сентябрь 2024**:  
+  **.NET разработчик (фриланс)**  
+  - Разработка архитектуры backend-частей приложений.
+  - Создание и настройка REST API.
+  - Интеграция с базами данных (PostgreSQL, MS SQL Server).
+  - Оптимизация серверных ресурсов.
+  - Настройка CI/CD пайплайнов и автоматизированного тестирования.
+  - Размещение и поддержка проектов в удалённых репозиториях (GitHub).
+
+### ✨ Что я умею
+- Создавать REST API на ASP.NET Core.
+- Интегрировать приложения с Docker.
+- Настраивать и поддерживать CI/CD пайплайны.
+- Работать с большими и средними проектами.
+
+### 🏆 Рекомендации
+- **Yandex**: Тимур (backend .NET разработчик)  
+- **T-Bank**: Тимур (backend .NET разработчик)
+
+---
+
+## 🌟 Чем я увлекаюсь
+С 9 класса интересуюсь программированием. Начал с Pascal, затем изучал C++, сейчас активно работаю с C# и .NET. Проходил курсы у известных разработчиков, таких как **Simple Code**, **Witch Blvde**, **Роман Сакутин**.
+
+---
+
+📌 _"Не люблю откладывать дела на потом и стремлюсь к высокому качеству кода."_  
+
 [![Top Langs](https://github-readme-stats.vercel.app/api/top-langs/?username=Timkavipww&layout=compact)](https://github.com/anuraghazra/github-readme-stats)
 
 [![Anurag's GitHub stats](https://github-readme-stats.vercel.app/api?username=Timkavipww)](https://github.com/anuraghazra/github-readme-stats)
