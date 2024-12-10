@@ -14,7 +14,7 @@
 - **Frontend**: HTML5, JavaScript, React
 - **Базы данных**: MS SQL Server, PostgreSQL, SQL
 - **Инструменты**: Microsoft Visual Studio, Git, Docker, CI/CD, JSON, XML, Entiy Framework Core,
-- **:Redis, Kafka, Swagger, Serilog, RabbitMQ, ** 
+- **Redis, Kafka, Swagger, Serilog, RabbitMQ** 
 - **Операционные системы**: Linux, Windows
 
 ### 🎓 Образование
