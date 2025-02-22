@@ -1,5 +1,5 @@
 # 💫 About Me:
-👋 Привет! Меня зовут Хайретдинов Тимур, я .NET разработчик с опытом работы в ASP.NET Core и созданием архитектуры backend-частей приложений.  
+👋 Привет! Меня зовут Тимур, я .NET разработчик с опытом работы в ASP.NET и созданием архитектуры backend-частей приложений.  
 
 ## 🌐 Socials:
 [![Twitch](https://img.shields.io/badge/Twitch-%239146FF.svg?logo=Twitch&logoColor=white)](https://twitch.tv/viperrweow) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zxsqwr520@gmail.com)  
