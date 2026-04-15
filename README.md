@@ -85,4 +85,4 @@
 ---
 
 ## 💰 Support
-[![Donate](https://img.shields.io/badge/Donate-FF6B6B?style=for-the-badge)](https://www.donationalerts.com/r/pogular52)
+[![Donate](https://img.shields.io/badge/Donate-FF6B6B?style=for-the-badge)]([https://www.donationalerts.com/r/pogular52](https://www.donationalerts.com/r/psihonerd))
