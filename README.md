@@ -25,14 +25,14 @@
 
 ## 🚀 Tech Stack
 
-### 🧩 Backend
-![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
-![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
-![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
-![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
-![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
-![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge)
-![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+### 🧩 Backend 
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white) 
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) 
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white) 
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white) 
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge) 
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge) 
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge) 
 ![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
 
 ---
@@ -69,7 +69,7 @@
 ---
 
 ### 💻 Environment
-![Linux](https://img.shields.io/badge/Linux-Arch_/_AlmaLinux-FCC624?style=for-the-badge&logo=linux)
+![Linux](https://img.shields.io/badge/Linux-Arch-FCC624?style=for-the-badge&logo=linux)
 ![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
 
 ---
