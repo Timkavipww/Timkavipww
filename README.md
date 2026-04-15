@@ -1,17 +1,85 @@
-# About Me:
-Привет! Меня зовут Тимур, я .NET разработчик с опытом работы в ASP.NET и созданием архитектуры backend-частей приложений.  
+# 🧑‍💻 Timur | Python Backend Developer
 
-## Socials:
-[![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zxsqwr520@gmail.com)  
+# 👋 About Me
+Привет! Меня зовут Тимур, я **Python разработчик**, занимаюсь разработкой backend-сервисов и проектированием архитектуры приложений.  
 
-# Tech Stack:
-![.Net](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white) ![C++](https://img.shields.io/badge/c++-%2300599C.svg?style=for-the-badge&logo=c%2B%2B&logoColor=white) ![JavaScript](https://img.shields.io/badge/javascript-%23323330.svg?style=for-the-badge&logo=javascript&logoColor=%23F7DF1E) ![Elasticsearch](https://img.shields.io/badge/elasticsearch-%230377CC.svg?style=for-the-badge&logo=elasticsearch&logoColor=white) ![React](https://img.shields.io/badge/react-%2320232a.svg?style=for-the-badge&logo=react&logoColor=%2361DAFB) ![Nginx](https://img.shields.io/badge/nginx-%23009639.svg?style=for-the-badge&logo=nginx&logoColor=white) ![Postgres](https://img.shields.io/badge/postgres-%23316192.svg?style=for-the-badge&logo=postgresql&logoColor=white) ![Redis](https://img.shields.io/badge/redis-%23DD0031.svg?style=for-the-badge&logo=redis&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![Postman](https://img.shields.io/badge/Postman-FF6C37?style=for-the-badge&logo=postman&logoColor=white)
-
-# Stats:
-![](https://github-readme-streak-stats.herokuapp.com/?user=Timkavipww&theme=bear&hide_border=false)![](https://github-readme-stats.vercel.app/api/top-langs/?username=Timkavipww&theme=bear&hide_border=false&include_all_commits=true&count_private=true&layout=compact)</br>
-
-## Donate
-[![Patreon](https://img.shields.io/badge/Patreon-F96854?style=for-the-badge&logo=patreon&logoColor=white)](https://patreon.com/https://www.donationalerts.com/r/pogular52)  
+- ⚙️ Основной стек: Python (FastAPI, aiogram), .NET (ASP.NET Core)
+- 🧠 Фокус: архитектура, API, микросервисы  
+- 🤖 Интерес: high-load системы, Telegram Mini Apps  
+- 🛠 Автоматизация: скрипты, интеграции, оптимизация процессов  
 
 ---
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+
+## 📫 Contacts
+[![Email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:zxsqwr520@gmail.com)
+
+---
+
+## 🧠 Engineering Focus
+- Backend architecture & API design  
+- High-load systems  
+- Microservices  
+- Telegram Mini Apps  
+
+---
+
+## 🚀 Tech Stack
+
+### 🧩 Backend
+![C#](https://img.shields.io/badge/C%23-239120?style=for-the-badge&logo=c-sharp&logoColor=white)
+![.NET](https://img.shields.io/badge/.NET-5C2D91?style=for-the-badge&logo=.net&logoColor=white)
+![FastAPI](https://img.shields.io/badge/FastAPI-009688?style=for-the-badge&logo=fastapi&logoColor=white)
+![aiogram](https://img.shields.io/badge/aiogram-2CA5E0?style=for-the-badge&logo=telegram&logoColor=white)
+![SQLAlchemy](https://img.shields.io/badge/SQLAlchemy-D71F00?style=for-the-badge)
+![EF Core](https://img.shields.io/badge/EF_Core-512BD4?style=for-the-badge)
+![Pydantic](https://img.shields.io/badge/Pydantic-E92063?style=for-the-badge)
+![JWT](https://img.shields.io/badge/JWT-000000?style=for-the-badge)
+
+---
+
+### ⚡ Data & Messaging
+![PostgreSQL](https://img.shields.io/badge/PostgreSQL-316192?style=for-the-badge&logo=postgresql&logoColor=white)
+![PostGIS](https://img.shields.io/badge/PostGIS-2F6DB3?style=for-the-badge)
+![Redis](https://img.shields.io/badge/Redis-DD0031?style=for-the-badge&logo=redis&logoColor=white)
+![OpenSearch](https://img.shields.io/badge/OpenSearch-005EB8?style=for-the-badge)
+![Kafka](https://img.shields.io/badge/Apache_Kafka-000000?style=for-the-badge&logo=apachekafka)
+![RabbitMQ](https://img.shields.io/badge/RabbitMQ-FF6600?style=for-the-badge&logo=rabbitmq)
+![S3](https://img.shields.io/badge/S3_Storage-569A31?style=for-the-badge&logo=amazonaws)
+
+---
+
+### 🎨 Frontend
+![React](https://img.shields.io/badge/React-20232A?style=for-the-badge&logo=react)
+![TypeScript](https://img.shields.io/badge/TypeScript-007ACC?style=for-the-badge&logo=typescript)
+![React Query](https://img.shields.io/badge/TanStack_Query-FF4154?style=for-the-badge)
+![React Hook Form](https://img.shields.io/badge/React_Hook_Form-EC5990?style=for-the-badge)
+![React Router](https://img.shields.io/badge/React_Router-CA4245?style=for-the-badge&logo=react-router)
+![TailwindCSS](https://img.shields.io/badge/TailwindCSS-38B2AC?style=for-the-badge&logo=tailwind-css)
+![Lucide](https://img.shields.io/badge/Lucide-000000?style=for-the-badge)
+
+---
+
+### 🧱 DevOps & Infra
+![Docker](https://img.shields.io/badge/Docker-2496ED?style=for-the-badge&logo=docker)
+![Docker Compose](https://img.shields.io/badge/Docker_Compose-384D54?style=for-the-badge)
+![Nginx](https://img.shields.io/badge/Nginx-009639?style=for-the-badge&logo=nginx)
+![Uvicorn](https://img.shields.io/badge/Uvicorn-499848?style=for-the-badge)
+![GitHub Actions](https://img.shields.io/badge/GitHub_Actions-2088FF?style=for-the-badge&logo=github-actions)
+
+---
+
+### 💻 Environment
+![Linux](https://img.shields.io/badge/Linux-Arch_/_AlmaLinux-FCC624?style=for-the-badge&logo=linux)
+![Windows](https://img.shields.io/badge/Windows-0078D6?style=for-the-badge&logo=windows)
+
+---
+
+## 📊 Stats
+![](https://github-readme-stats.vercel.app/api/top-langs/?username=Timkavipww&layout=compact&theme=tokyonight&hide_border=true)
+
+---
+
+## 💰 Support
+[![Donate](https://img.shields.io/badge/Donate-FF6B6B?style=for-the-badge)](https://www.donationalerts.com/r/pogular52)
+
+---
