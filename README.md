@@ -8,14 +8,6 @@
 - 🤖 Интерес: high-load системы, Telegram Mini Apps  
 - 🛠 Автоматизация: скрипты, интеграции, оптимизация процессов  
 
----
-
-## 🧠 Engineering Focus
-
-- 🏗 Backend architecture & API design  
-- ⚡ High-load systems & performance  
-- 🔗 Microservices & event-driven architecture  
-- 🤖 Telegram bots & Mini Apps  
 - 🛠 Automation & integrations  
 
 ---
